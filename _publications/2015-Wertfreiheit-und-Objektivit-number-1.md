@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: \publications\2015-Wertfreiheit-und-Objektivit-number-1.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2015
+date: 2015-05-01
 venue: 'Soziologiemagazin: publizieren statt archivieren'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://nbn-resolving.org/urn:nbn:de:0168-ssoar-441134'
