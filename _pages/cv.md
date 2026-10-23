@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in Philosophy of Science, Leibniz University Hanover, 2016
+* B.A. in Cultural Anthropology and Sociology, Friedrich Schiller University Jena, 2013
 
 Work experience
 ======
