@@ -1,7 +1,7 @@
 ---
 title: "Wertfreiheit und Objektivität: eine wissenschaftsphilosophische Kritik an der epistemischen Autorität wirtschaftswissenschaftlicher Theorien und Methoden"
 collection: publications
-category: manuscripts
+category: paper
 permalink: \publications\2015-Wertfreiheit-und-Objektivit-number-1.md
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2015-05-01

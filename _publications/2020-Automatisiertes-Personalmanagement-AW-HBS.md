@@ -1,7 +1,7 @@
 ---
 title: "Automatisiertes Personalmanagement und Mitbestimmung: KI-basierte Systeme für das Personalmanagement - was ist fair, was ist  erlaubt?"
 collection: publications
-category: manuscripts
+category: other
 permalink: \publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
 date: 2020-04-01

@@ -85,10 +85,12 @@ author:
 publication_category:
   Research:
     title: 'About'
-  manuscripts:
-    title: 'Publications'    
-    conferences:
-    title: 'Conference Talks'
+  paper: 
+    title: "Articles and Chapters"
+  book:
+    title: "Books and Edited Volumes"
+  other:
+    title: "Reviews and other Writings (Selection)"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
