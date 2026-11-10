@@ -1,5 +1,5 @@
 ---
-title: "Rezension. „Soziale Maschinen bauen. Epistemische Praktiken der Sozialrobotik“, von Andreas Bischof"
+title: "Review of „Soziale Maschinen bauen. Epistemische Praktiken der Sozialrobotik“, by Andreas Bischof"
 collection: publications
 category: other
 permalink: \publications\2018-Rezension-SozMag-Soziale-Maschinen.md
