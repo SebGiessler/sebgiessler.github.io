@@ -22,7 +22,7 @@ repository               : "SebGiessler/sebgiessler.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/profile_IZEW_05.07.2023.jpg"
+  avatar           : "profile_IZEW_05.07.2023.jpg"
   name             : "Sebastian Gießler"
   pronouns         : # example: "she/her"  
   bio              : "Researcher"
@@ -87,7 +87,9 @@ publication_category:
     title: 'About'
   manuscripts:
     title: 'Publications'    
-  conferences:
+    other:
+    title: 'Other publications'
+    conferences:
     title: 'Conference Talks'
 
 # Site Settings
