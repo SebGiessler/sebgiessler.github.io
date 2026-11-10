@@ -1,7 +1,7 @@
 ---
 title: "Matthias Spielkamp, Sebastian Gießler (2020). Automatisiertes Personalmanagement und Mitbestimmung: KI-basierte Systeme für das Personalmanagement - was ist fair, was ist  erlaubt?"
 collection: publications
-category: other
+category: manuscripts
 permalink: \publications\2020-04-01-Automatisiertes-Personalmanagement-number-3.md
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2020-04-01

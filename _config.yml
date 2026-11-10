@@ -87,8 +87,6 @@ publication_category:
     title: 'About'
   manuscripts:
     title: 'Publications'    
-    other:
-    title: 'Other publications'
     conferences:
     title: 'Conference Talks'
 
