@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Philosopher of Science and technology working at the intersection of Philosophy of Science and Science and Technology Studies (STS). My research connects the ethics and epistemology of science with empirical methods, ranging from qualitative social research to computational text analysis, to investigate the normative, methodological, and societal aspects of computing. Through this work, I examine how both epistemic and non-epistemic values shape technical design and engineering practices.
+I am a Philosopher of Science and Technology working at the intersection of Philosophy of Science and Science and Technology Studies (STS). My research connects the ethics and epistemology of science with empirical methods, ranging from qualitative social research to computational text analysis, to investigate the normative, methodological, and societal aspects of computing. Through this work, I examine how both epistemic and non-epistemic values shape technical design and engineering practices.
 
 As a Philosopher, I'm speficially interested in how computational innovations, such as machine learning models, novel methods of data analysis, and synthetic data, reshape scientific practices. Computation is transforming scientific fields, putting established practices for ensuring research integrity under pressure, or replacing them entirely with alternative practices that may be based on different epistemological foundations.
 
