@@ -1,13 +1,13 @@
 ---
-title: "Don’t Patch the Researcher, Patch the Game: A Systematic Approach for Responsible Research via Federated Ethics Boards."
+title: "he Role of Ethics in Shaping Robotics Development"
 collection: publications
 category: paper
 permalink: \publications\2024-Dirksenetal-dont-patch-the-researcher-number-7
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'In this peer-reviewed blog post, Aline Franzke and I reflected on our initial experiences in the EGAR: Ethics and Societal Aspects of Autonomous Robots project  and set out our perspective on the role of ethics in robotics development. '
 date: 2024-12-01
 venue: 'New Security Paradigms Workshop'
-paperurl: 'https://doi.org/10.1145/3703465.3703475'
-citation: 'Aline Franzke, Sebastian Gießler (2024). The Role of Ethics in Shaping Robotics Development. Breathing Time Blog of the IZEW. \\url{https://uni-tuebingen.de/de/263004}"'
+paperurl: 'https://uni-tuebingen.de/de/263004'
+citation: 'Aline Franzke, Sebastian Gießler (2024). The Role of Ethics in Shaping Robotics Development. Breathing Time Blog of the IZEW.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
