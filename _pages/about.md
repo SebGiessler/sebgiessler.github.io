@@ -20,3 +20,4 @@ Key areas of focus include:
 * **Methodological shifts in the social sciences:** Analysing the use of chatbots as interviewer surrogates, in-silico sampling,synthetic datasets and how off-the-shelf models influence scholarly research.
 * **Ethical Governance in Computer Science:** Examining responsible research practices and scientific misconduct in computer science, especially in social data heavy domains like Security & Privacy Research.
 * **Machine learning in Science:** Assessing the impact of novel analytical tools and computational methods in scientific research.
+
