@@ -39,12 +39,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * 2026: Program Chair and Reviewer for the MetaCRiSP 2026. 1st Workshop on Metascience and Critical Reflections in Security & Privacy. Co-located with the 47th IEEE Security and Privacy (S&P) Symposium.
