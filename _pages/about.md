@@ -7,10 +7,16 @@ redirect_from:
   - /about.html
 ---
 
-I'm a philosopher of science and technology and I work on research questions at the intersection between Philosophy of Science and the social sciences, namely cultural anthropology and sociology. On the one hand, I focus on the integration of ethics and epistemology of science to analyse the connection between computer-assisted scientific tools and the normative and ethical implications that these tools entail. On the other hand, I typically peruse methods from qualitative social research and Science and Technology Studies. I integrate empirical approaches into my research to look into epistemic practices in technology development and use these findings to formulate which epistemic and non-epistemic values influence the integration of ethical and societal aspects into technology development.
+I am a Philosopher of Science and technology working at the intersection of Philosophy of Science and Science and Technology Studies (STS). My research connects the ethics and epistemology of science with empirical methods, ranging from qualitative social research to computational text analysis, to investigate the normative, methodological, and societal aspects of computing. Through this work, I examine how both epistemic and non-epistemic values shape technical design and engineering practices.
 
-This range of research interests, combined with my experience in policy research and field research, has come together to form a personal project that can be described by the working title ‘Ethics and Epistemology of Computation for Science’. It's aim is to integrate perspectives of ethics and epistemology of science, to examine how computation, i.e. machine learning tools, novel methods of data analysis or synthetic data, shape scientific practices and to pose the question, what theoretical, methodological and ethical implications this entails.
+As a Philosopher, I'm speficially interested in how computational innovations, such as machine learning models, novel methods of data analysis, and synthetic data, reshape scientific practices. Computation is transforming scientific fields, putting established practices for ensuring research integrity under pressure, or replacing them entirely with alternative practices that may be based on different epistemological foundations.
 
 Current research
 ======
-I'm investigating whether, and if so how, scientific practices from computer science or engineering have an impact when these methods are applied in other contexts or these contexts shift. Examples for this are methodology shifts in social research (i.e. using Chatbots as surrogate for interviewers, in-silico sampling, synthetic data), ethical issues of internet measurement in Computer Science or new analytical methods and machine learning tools in big science. What these diverse cases have in common is that computation is transforming established scientific practices, putting them under pressure, or replacing them entirely with alternative practices that may be based on different epistemological foundations. 
+My current research investigates the epistemic and ethical transformations that occur when scientific practices native to computer science and engineering migrate into new disciplinary domains.
+
+Key areas of focus include:
+
+* **Methodological shifts in the social sciences:** Analysing the use of chatbots as interviewer surrogates, in-silico sampling,synthetic datasets and how off-the-shelf models influence scholarly research.
+* **Ethical Governance in Computer Science:** Examining responsible research practices and scientific misconduct in computer science, especially in social data heavy domains like Security & Privacy Research.
+* **Machine learning in Science:** Assessing the impact of novel analytical tools and computational methods in scientific research.
