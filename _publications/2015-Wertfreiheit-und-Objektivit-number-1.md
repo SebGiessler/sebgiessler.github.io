@@ -3,7 +3,7 @@ title: "Wertfreiheit und Objektivität: eine wissenschaftsphilosophische Kritik 
 collection: publications
 category: paper
 permalink: \publications\2015-Wertfreiheit-und-Objektivit-number-1.md
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper examines the phenomenon that economics, by virtue of its mathematical methods and predictive models, is perceived to have greater legitimacy than other social sciences, such as qualitative sociology. This claim is examined and refuted from the perspective of the philosophy of science, whilst arguing for greater epistemic modesty in economics. '
 date: 2015-05-01
 venue: 'Soziologiemagazin: publizieren statt archivieren'
 slidesurl: 'https://academicpages.github.io/files/slides1.pdf'

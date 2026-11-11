@@ -3,7 +3,7 @@ title: "Fair Enough? Assessing Open Science Practices on a Top-Tier Security Pri
 collection: publications
 category: proceedings
 permalink: \publications\2026-Heinrichetal-Fair-enough-Assessing-open-science-practices-number-9
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'A fundamental requirement for the understanding and verifiability of scientific results is the disclosure of data, methods and the scientific instruments used. In computer science, this relates primarily to technical artefacts, which conferences now require to be made available as part of the peer-review process. This paper investigates whether these artefacts are still available even years after their initial publication.'
 date: 2026-05-21
 venue: '2026 IEEE Symposium on Security and Privacy Workshops (SPW)'
 paperurl: 'https://doi.org/10.1109/SPW72489.2026.00034'

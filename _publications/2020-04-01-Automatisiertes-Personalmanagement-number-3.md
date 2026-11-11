@@ -3,7 +3,7 @@ title: "Automatisiertes Personalmanagement und Mitbestimmung: KI-basierte System
 collection: publications
 category: other
 permalink: \publications\2020-04-01-Automatisiertes-Personalmanagement-number-3.md
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This publication is part of the ‘Automation in HR’ project carried out by AlgorithmWatch for the Hans Böckler Foundation. It summarises the project’s findings and discusses the ethical and legal aspects of automated cognitive work in human resources management. '
 date: 2020-04-01
 venue: 'Working Paper Forschungsförderung, No.191, Hans-Böckler-Stiftung, Düsseldorf. '
 paperurl: 'https://www.boeckler.de/fpdf/HBS-007844/p_fofoe_WP_191_2020.pdf'

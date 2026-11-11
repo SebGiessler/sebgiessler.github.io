@@ -3,7 +3,7 @@ title: "Review of „Soziale Maschinen bauen. Epistemische Praktiken der Sozialr
 collection: publications
 category: other
 permalink: \publications\2018-Rezension-SozMag-Soziale-Maschinen.md
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'TBD'
 date: 2018-05-01
 venue: 'Soziologiemagazin: publizieren statt archivieren 01/2018'
 paperurl: 'https://elibrary.utb.de/doi/abs/10.3224/soz.v11i1.0'

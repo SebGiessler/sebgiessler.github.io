@@ -3,7 +3,7 @@ title: "Don’t Patch the Researcher, Patch the Game: A Systematic Approach for 
 collection: publications
 category: proceedings
 permalink: \publications\2024-Dirksenetal-dont-patch-the-researcher-number-7
-excerpt: 'This paper is about fixing template issue #693.'
+excerpt: 'In this paper, Alexandra Dirksen, Hendrik Erz and I have examined the ethical oversight mechanisms in computer science in a scoping review. We found that these mechanisms are highly fragmented and fail to fulfil their objective of protecting research participants from harm. We conclude by proposing a framework for how these problems might be addressed. '
 date: 2024-12-01
 venue: 'New Security Paradigms Workshop'
 paperurl: 'https://doi.org/10.1145/3703465.3703475'
