@@ -85,6 +85,8 @@ author:
 publication_category:
   Research:
     title: 'About'
+  proceedings:
+    title: Conference proceedings
   paper: 
     title: "Articles and Chapters"
   book:

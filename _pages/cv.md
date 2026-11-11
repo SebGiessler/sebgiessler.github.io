@@ -16,30 +16,17 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023 - 2026: Research Associate in Philosophy & Ethics of Robotics
+  * International Center for Ethics in the Sciences and Humanities (IZEW)
+  * University of Tübingen
+  * Duties included: Embedded Ethics, Qualitative Social Research, Interdisciplinary workshops with roboticists and computer scientists
+  * Supervisors: Dr. Mone Spindler and Dr. Wulf Loh
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018 -  2020: Researcher in Ethics of Automated Decision Making System
+  * AlgorithmWatch gGmbH, Berlin
+  * Duties included: Working in the projects Automation of HR and the AI Ethics Global Inventory
+  * Supervisors: Matthias Spielkamp and Lorenz Matzat
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -60,4 +47,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 2026: Program Chair and Reviewer for the MetaCRiSP 2026. 1st Workshop on Metascience and Critical Reflections in Security & Privacy. Co-located with the 47th IEEE Security and Privacy (S&P) Symposium.
+* 2025: Session Chair Über Roboter (at transformativ 2025)
+* 2024: Session Chair Pretrained models and sociology: ethical, methodological, and theoretical considerations (at NSA 2024)
